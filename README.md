@@ -1,3 +1,14 @@
+##  My depolyments
+
+
+Front-end: https://viz-spotify.herokuapp.com/
+
+
+Back-end: https://viz-spotify-backend.herokuapp.com/login
+
+
+
+
 The idea is the user signs in with their spotify account and agrees to share their data with this backend application as long as their are logged in.
 If sucessful the user is redirected to the client application with the applications valid access_token in the url. Its then the front-end applications
 job to parse this valid access_token from url and make api calls to spotify. 
